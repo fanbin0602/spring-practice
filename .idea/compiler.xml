@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-practice-redis-messaging" />
-        <module name="spring-practice-batch-service" />
-        <module name="spring-practice-cross-origin" />
-        <module name="spring-practice-websocket" />
         <module name="spring-practice-hateoas-api" />
+        <module name="spring-practice-cross-origin" />
+        <module name="spring-practice-batch-service" />
+        <module name="spring-practice-redis-messaging" />
+        <module name="spring-practice-websocket" />
+        <module name="spring-practice-rest-repository" />
       </profile>
     </annotationProcessing>
   </component>
@@ -20,6 +21,7 @@
       <module name="spring-practice-cross-origin" options="" />
       <module name="spring-practice-hateoas-api" options="" />
       <module name="spring-practice-redis-messaging" options="" />
+      <module name="spring-practice-rest-repository" options="" />
       <module name="spring-practice-websocket" options="" />
     </option>
   </component>

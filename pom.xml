@@ -16,6 +16,7 @@
         <module>spring-practice-hateoas-api</module>
         <module>spring-practice-websocket</module>
         <module>spring-practice-cross-origin</module>
+        <module>spring-practice-rest-repository</module>
     </modules>
 
 
