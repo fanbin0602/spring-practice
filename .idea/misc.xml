@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/spring-practice-websocket/pom.xml" />
         <option value="$PROJECT_DIR$/spring-practice-cross-origin/pom.xml" />
         <option value="$PROJECT_DIR$/spring-practice-rest-repository/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-practice-caching-data/pom.xml" />
       </list>
     </option>
   </component>

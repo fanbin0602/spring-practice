@@ -17,6 +17,7 @@
         <module>spring-practice-websocket</module>
         <module>spring-practice-cross-origin</module>
         <module>spring-practice-rest-repository</module>
+        <module>spring-practice-caching-data</module>
     </modules>
 
 
