@@ -8,6 +8,8 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  * 示例：开启接口的跨域访问
+ * @see <a href="https://spring.io/guides/gs/rest-service-cors/">
+ *     Enabling Cross Origin Requests for a RESTful Web Service</a>
  *
  * @author fanbin
  */
