@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/spring-practice-batch-service/pom.xml" />
         <option value="$PROJECT_DIR$/spring-practice-hateoas-api/pom.xml" />
         <option value="$PROJECT_DIR$/spring-practice-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-practice-cross-origin/pom.xml" />
       </list>
     </option>
   </component>

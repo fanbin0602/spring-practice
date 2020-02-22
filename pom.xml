@@ -15,6 +15,7 @@
         <module>spring-practice-batch-service</module>
         <module>spring-practice-hateoas-api</module>
         <module>spring-practice-websocket</module>
+        <module>spring-practice-cross-origin</module>
     </modules>
 
 

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-practice-redis-messaging" />
         <module name="spring-practice-batch-service" />
+        <module name="spring-practice-cross-origin" />
         <module name="spring-practice-websocket" />
         <module name="spring-practice-hateoas-api" />
       </profile>
@@ -16,6 +17,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-practice-batch-service" options="" />
+      <module name="spring-practice-cross-origin" options="" />
       <module name="spring-practice-hateoas-api" options="" />
       <module name="spring-practice-redis-messaging" options="" />
       <module name="spring-practice-websocket" options="" />
