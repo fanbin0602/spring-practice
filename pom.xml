@@ -18,7 +18,21 @@
         <module>spring-practice-cross-origin</module>
         <module>spring-practice-rest-repository</module>
         <module>spring-practice-caching-data</module>
+        <module>spring-practice-reactive-rest</module>
     </modules>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 
 </project>

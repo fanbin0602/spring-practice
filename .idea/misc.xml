@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/spring-practice-cross-origin/pom.xml" />
         <option value="$PROJECT_DIR$/spring-practice-rest-repository/pom.xml" />
         <option value="$PROJECT_DIR$/spring-practice-caching-data/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-practice-reactive-rest/pom.xml" />
       </list>
     </option>
   </component>

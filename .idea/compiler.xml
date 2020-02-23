@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-practice-reactive-rest" />
         <module name="spring-practice-hateoas-api" />
         <module name="spring-practice-cross-origin" />
         <module name="spring-practice-caching-data" />
@@ -22,6 +23,7 @@
       <module name="spring-practice-caching-data" options="" />
       <module name="spring-practice-cross-origin" options="" />
       <module name="spring-practice-hateoas-api" options="" />
+      <module name="spring-practice-reactive-rest" options="" />
       <module name="spring-practice-redis-messaging" options="" />
       <module name="spring-practice-rest-repository" options="" />
       <module name="spring-practice-websocket" options="" />
