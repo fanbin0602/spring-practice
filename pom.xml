@@ -19,6 +19,7 @@
         <module>spring-practice-rest-repository</module>
         <module>spring-practice-caching-data</module>
         <module>spring-practice-reactive-rest</module>
+        <module>spring-practice-docker</module>
     </modules>
 
     <build>

@@ -13,6 +13,7 @@
         <module name="spring-practice-batch-service" />
         <module name="spring-practice-redis-messaging" />
         <module name="spring-practice-websocket" />
+        <module name="spring-practice-docker" />
         <module name="spring-practice-rest-repository" />
       </profile>
     </annotationProcessing>
@@ -22,6 +23,7 @@
       <module name="spring-practice-batch-service" options="" />
       <module name="spring-practice-caching-data" options="" />
       <module name="spring-practice-cross-origin" options="" />
+      <module name="spring-practice-docker" options="" />
       <module name="spring-practice-hateoas-api" options="" />
       <module name="spring-practice-reactive-rest" options="" />
       <module name="spring-practice-redis-messaging" options="" />
